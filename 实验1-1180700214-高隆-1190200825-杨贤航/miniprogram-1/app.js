@@ -17,3 +17,6 @@ App({
     userInfo: null
   }
 })
+
+
+// 在app.js文件中随意添加修改
