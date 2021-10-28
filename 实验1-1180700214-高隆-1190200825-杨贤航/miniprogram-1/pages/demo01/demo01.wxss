@@ -1,0 +1,13 @@
+/* pages/demo01/demo01.wxss */
+.text_align{
+  text-align: center; /** 水平居中 **/
+  font-size: 50rpx;
+  
+  }
+  button{
+    width: 60px!important;
+    height: 60px!important;
+    margin: 5px!important;
+    line-height:  60px !important;
+  }
+

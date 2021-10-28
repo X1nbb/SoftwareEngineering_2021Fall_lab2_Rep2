@@ -1,0 +1,43 @@
+<view style="height: 50px;border-style: solid;line-height: 50px!important;font-size: 30px;">
+<text id="text" style="text-align: end;"> {{string}}</text>
+</view>
+<view class="text_align">
+  <button size="mini" bindtap="confirmNum" data-id="7">7</button>
+  <button size="mini" bindtap="confirmNum" data-id="8">8</button>
+  <button size="mini" bindtap="confirmNum" data-id="9">9</button>
+  <button size="mini" bindtap="confirmNum" data-id="+">+</button>
+  <button size="mini" bindtap="confirmNum" data-id="-">-</button>
+</view>
+<view class="text_align">
+  <button size="mini" bindtap="confirmNum" data-id="4">4</button>
+  <button size="mini" bindtap="confirmNum" data-id="5">5</button>
+  <button size="mini" bindtap="confirmNum" data-id="6">6</button>
+  <button size="mini" bindtap="confirmNum" data-id="*">*</button>
+  <button size="mini" bindtap="confirmNum" data-id="/">/</button>
+</view>
+<view class="text_align">
+  <button size="mini" bindtap="confirmNum" data-id="1">1</button>
+  <button size="mini" bindtap="confirmNum" data-id="2">2</button>
+  <button size="mini" bindtap="confirmNum" data-id="3">3</button>
+  <button size="mini" bindtap="confirmNum" data-id="(">(</button>
+  <button size="mini" bindtap="confirmNum" data-id=")">)</button>
+</view>
+<view class="text_align">
+  <button size="mini" bindtap="confirmNum" data-id=".">.</button>
+  <button size="mini" bindtap="confirmNum" data-id="0">0</button>
+  <button size="mini" bindtap="back" >DEL</button>
+  <button size="mini" bindtap="reset" >C</button>
+  <button size="mini" bindtap="equals" >=</button>
+</view>
+
+<view class="text_align">
+  <button size="mini" bindtap="sin" data-id=".">sin</button>
+  <button size="mini" bindtap="cos" data-id="0">cos</button>
+  <button size="mini" bindtap="tan" >tan</button>
+  <button size="mini" bindtap="toRadians" >2Rad</button>
+  <button size="mini" bindtap="toDegree" >2Dgr</button>
+</view>
+
+
+<view style="text-align: center;">1180700214 高隆</view>
+<view style="text-align: center;">1190200825 杨贤航</view>

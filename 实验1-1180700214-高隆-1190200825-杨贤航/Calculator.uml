@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>Calculator</OriginalElement>
+  <nodes>
+    <node x="117.25" y="0.0">App</node>
+    <node x="350.79505608297245" y="388.36579266941897">Calculator</node>
+    <node x="-134.86821461685628" y="312.5316520202732">Page</node>
+    <node x="377.964035275381" y="89.0">Eval5</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Page" target="App" relationship="GENERALIZATION">
+      <point x="0.0" y="-105.0" />
+      <point x="-26.368214616856278" y="192.0" />
+      <point x="216.75" y="192.0" />
+      <point x="0.0" y="83.5" />
+    </edge>
+    <edge source="Calculator" target="App" relationship="GENERALIZATION">
+      <point x="0.0" y="-39.0" />
+      <point x="415.79505608297245" y="192.0" />
+      <point x="216.75" y="192.0" />
+      <point x="0.0" y="83.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="0.9778751629389977" showDependencies="false" x="265.74259340031574" y="242.48901428806266" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
